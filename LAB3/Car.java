@@ -6,5 +6,5 @@ public class Car
 	double price;
 	int capacity;
 	boolean isAuto;
-	boolean is Usable;
+	boolean isUsable;
 }
